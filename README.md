@@ -7,7 +7,7 @@ Desenvolvedor em formação | Engenharia de Software
 ##
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web;Evoluindo+todos+os+dias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web;" />
 </p>
 
 ---
